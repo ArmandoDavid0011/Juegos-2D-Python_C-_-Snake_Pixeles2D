@@ -1,12 +1,17 @@
 ## Bienvenido a mi proyecto
 
-You can use the [editor on GitHub](https://github.com/ArmandoDavid0011/Proyecto-Game.github.io/edit/gh-pages/index.md) Universidad Interamericana para el desarrollo
+Este es el enlace para entrar a mi proyecto de escuela(https://github.com/ArmandoDavid0011/Proyecto-Game.github.io/edit/gh-pages/index.md) Si quieres ayudarme a elaborarlo sigueme y nos ponemos en contacto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Datos personales
+Nombre: Armando David Camacho Merino
+Direccion: Acapulco de Juarez, Luis Donaldo Colosio.
+Telefono: "SN"
 
-### Markdown
+### Datos Universitarios
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+UNIVERSIDAD INTERAMERICANA PARA EL DESARROLLO.
+
+Kevin Armando Luciano Garcia.
 
 ```markdown
 Syntax highlighted code block
