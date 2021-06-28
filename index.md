@@ -1,6 +1,6 @@
 ## Bienvenido a mi proyecto
 
-Este es el enlace para entrar a mi proyecto de escuela(https://github.com/ArmandoDavid0011/Proyecto-Game.github.io/edit/gh-pages/index.md) Si quieres ayudarme a elaborarlo sigueme y nos ponemos en contacto.
+Este es el enlace para entrar a mi proyecto de escuela (https://github.com/ArmandoDavid0011/Proyecto-Game.github.io/edit/gh-pages/index.md) Si quieres ayudarme a elaborarlo sigueme y nos ponemos en contacto.
 
 ### Datos personales
 Nombre: Armando David Camacho Merino
